@@ -6,7 +6,7 @@ main:
   #   url: /year-archive/
 
   - title: "CTF Writeups"
-    url: /ctf_writeups/
+    url: /writeups/
 
   # - title: "Talks"
   #  url: /talks/    
