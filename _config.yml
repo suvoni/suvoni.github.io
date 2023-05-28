@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme             : "pages-themes/hacker@v0.2.0"
+remote_theme             : - pages-themes/hacker@v0.2.0
 locale                   : "en-US"
 title                    : "Suvoni's Website"
 title_separator          : "-"
@@ -217,6 +217,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _teaching
   - scope:
       path: ""
