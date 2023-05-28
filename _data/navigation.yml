@@ -1,22 +1,24 @@
+# This file controls the tabs on the top navigation bar
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "CTF Writeups"
+    url: /ctf_writeups/
+
+  # - title: "Talks"
+  #  url: /talks/    
+
+  # - title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "Portfolio"
+  #  url: /portfolio/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "CV"
+  #   url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
