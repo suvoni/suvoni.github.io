@@ -1,4 +1,3 @@
-Test Writeup
 ---
 title: 'Blog Post number 1'
 date: 2023-05-28
